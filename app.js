@@ -23,3 +23,4 @@ addForm.addEventListener('submit', function(e){
                       const value = addForm.querySelector('input[type="text"]').value;
                       console.log(value);
 });
+//mainiju 9* reizi
